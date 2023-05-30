@@ -1,0 +1,39 @@
+.skills.section-p{
+    padding: 4.5rem 0;
+}
+.skills-language{
+    padding: 2.4rem;
+}
+.skills-language-img{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0.8rem;
+}
+.skills-language-img li > *:not(:last-child) {
+    margin-right: 20px;
+}
+.skills-framework{
+    padding: 2.4rem;
+}
+.skills-framework-img{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0.8rem;
+}
+.skills-framework-img li > *:not(:last-child) {
+    margin-right: 20px;
+}
+.skills-tool{
+    padding: 2.4rem;
+}
+.skills-tool-img{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0.8rem;
+}
+.skills-tool-img li > *:not(:last-child) {
+    margin-right: 20px;
+}

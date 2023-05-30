@@ -1,0 +1,24 @@
+.experiences{
+    min-height: 70vh;
+    background: linear-gradient(rgba(42,42,46,0.7),40%,rgba(42,42,46,0.85)), url("../../assets/images/experience_background.jpg") center/cover no-repeat;
+    justify-content: stretch;
+}
+.experiences-list{
+    row-gap: 2rem;
+}
+.experiences-item{
+    padding: 2.4rem;
+}
+.experiences-item-img{
+    margin-bottom: 0.8rem;
+}
+.experiences-item-img img{
+    opacity: 0.9;
+    width: 240px;
+}
+.experiences-item-text .text{
+    opacity: 0.9;
+    max-width: 600px;
+    text-align: justify;
+    list-style-type: disc;
+}
