@@ -27,6 +27,7 @@ const Navbar = () => {
                                     <ScrollLink to = "about" 
                                     spy={true} smooth={true} duration={500} activeClass='some-active-class' 
                                     className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'
+                                    onClick={closeNavBar}
                                     >
                                         About
                                     </ScrollLink>
@@ -35,6 +36,7 @@ const Navbar = () => {
                                     <ScrollLink to = "experience" 
                                     spy={true} smooth={true} duration={500} activeClass='some-active-class' 
                                     className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'
+                                    onClick={closeNavBar}
                                     >
                                         Experience
                                     </ScrollLink>
@@ -43,6 +45,7 @@ const Navbar = () => {
                                     <ScrollLink to = "skills" 
                                     spy={true} smooth={true} duration={500} activeClass='some-active-class' 
                                     className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'
+                                    onClick={closeNavBar}
                                     >
                                         Skills
                                     </ScrollLink>
@@ -51,6 +54,7 @@ const Navbar = () => {
                                     <ScrollLink to = "projects" 
                                     spy={true} smooth={true} duration={500} activeClass='some-active-class' 
                                     className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'
+                                    onClick={closeNavBar}
                                     >
                                         Projects
                                     </ScrollLink>
@@ -59,6 +63,7 @@ const Navbar = () => {
                                     <ScrollLink to = "follow" 
                                     spy={true} smooth={true} duration={500} activeClass='some-active-class' 
                                     className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'
+                                    onClick={closeNavBar}
                                     >
                                         Follow
                                     </ScrollLink>
