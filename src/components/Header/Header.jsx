@@ -16,7 +16,7 @@ const Header = () => {
                             className='text-brown'>Backend Developer</span> living in Singapore</h1>
                             <div className='btn-groups flex'>
                                 <button type="button" className='btn-item bg-brown fw-4 ls-2'>
-                                    <a href="https://drive.google.com/file/d/1mpYddSgO3CCL8Fz8OQJE2nJcVtsvnwNu/view?usp=share_link">My Resume</a>
+                                    <a href="https://drive.google.com/file/d/1wP2XQLRtvyenu5BvWXwR-PcPQXHoXiC9/view?usp=share_link">My Resume</a>
                                 </button>
                                 <button type="button" className='btn-item bg-dark fw-4 ls-2'>
                                     <a href="mailto:wkcjay@gmail.com">Contact Me</a>
